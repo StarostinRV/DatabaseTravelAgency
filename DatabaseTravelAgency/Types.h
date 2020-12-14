@@ -127,7 +127,7 @@ enum Color
 	BLUE = 0x01,
 	GREEN = 0x02,
 	CYAN = 0x03,
-	RED = 0x04,
+	RED = 0x04, 
 	MAGENTA = 0x05,
 	YELLOY = 0x06,
 	BRIGHTGREY = 0x07,
